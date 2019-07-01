@@ -1,6 +1,7 @@
 # Lab code (WIP), but call for comments
 
 [![Build Status](https://travis-ci.org/hunkim/DeepLearningZeroToAll.svg?branch=master)](https://travis-ci.org/hunkim/DeepLearningZeroToAll)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lunalcni/DeepLearningZeroToAll/master?filepath=https%3A%2F%2Fgithub.com%2Flunalcni%2FDeepLearningZeroToAll%2Fblob%2Fmaster%2Flab-01-basics.ipynb)
 
 This is code for labs covered in TensorFlow basic tutorials (in Korean) at https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm. 
 (We also have a plan to record videos in English.)
